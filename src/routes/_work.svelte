@@ -14,7 +14,7 @@
 	{#each projects as project}
 		<article class="project">
 			<h3>
-				<a href="/work/{project.slug}" sveltekit:prefetch>
+				<a href={project.repo} sveltekit:prefetch>
 					{project.name}
 				</a>
 				{#if project.repo}
