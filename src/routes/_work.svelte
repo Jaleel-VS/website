@@ -9,7 +9,7 @@
 
 <section class="work">
 	<h2>
-		<a href="/work" sveltekit:prefetch>Projects</a>
+		Projects
 	</h2>
 	{#each projects as project}
 		<article class="project">
@@ -38,11 +38,11 @@
 			</div>
 			<p>{project.summary}</p>
 			<p>Stack: {project.stack}</p>
-			<p>
+			<!-- <p>
 				<a class="text-link" target="_blank" href="{project.video}" sveltekit:prefetch>
 					Video Demo
 				</a>
-			</p>
+			</p> -->
 		</article>
 	{/each}
 </section>
