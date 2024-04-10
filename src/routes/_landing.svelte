@@ -10,13 +10,8 @@
 		<!-- <Logo size="0.9em" color="var(--color-primary-400)" /> -->
 	</h1>
 	<p>
-		I'm a junior web developer based in Cape Town, South Africa. I'm currently
-		completing my BSc in Computer Science at the University of Cape Town.
-		I'm interested in web development, game development, and blockchain.
-	</p>
-	<p>
-		In my free time I like to learn more about digital technology, linguistics, and to
-		exercise.
+		I'm a junior software engineer at Old Mutual Investment Group based in Cape Town, South Africa working .
+		My interests lie within Artificial Intelligence, Educational Tecnology and Cybersecurity. Send me a message on LinkedIn if you're up for a chat 😊
 	</p>
 	<hr class="bold" />
 	<ul class="links">
@@ -46,7 +41,7 @@
 		</li>
 		<li>
 			<a
-				href="https://rxresu.me/eusebio77/jaleel-cv"
+				href="https://rxresu.me/eusebio77/jaleel2024"
 				title="CV"
 				target="_blank"
 				rel="noopener"
