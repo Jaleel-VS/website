@@ -10,8 +10,8 @@
 		<!-- <Logo size="0.9em" color="var(--color-primary-400)" /> -->
 	</h1>
 	<p>
-		I'm a junior software engineer at Old Mutual Investment Group based in Cape Town, South Africa working .
-		My interests lie within Artificial Intelligence, Educational Tecnology and Cybersecurity. Send me a message on LinkedIn if you're up for a chat 😊
+		I'm a Graduate Software Engineer at Old Mutual Investment Group based in Cape Town, South Africa. I'm also completing my honours in Information Systems at the University of Cape Town.
+		My interests lie within Artificial Intelligence, Educational Tecnology and Cybersecurity. Connect with me on LinkedIn if want to chat 😊
 	</p>
 	<hr class="bold" />
 	<ul class="links">
