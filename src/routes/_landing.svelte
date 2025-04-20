@@ -10,8 +10,8 @@
 		<!-- <Logo size="0.9em" color="var(--color-primary-400)" /> -->
 	</h1>
 	<p>
-		I'm a Graduate Software Engineer at Old Mutual Investment Group based in Cape Town, South Africa. I'm also completing my honours in Information Systems at the University of Cape Town.
-		My interests lie in Artificial Intelligence, EduTech, FinTech and Data Science. Connect with me on LinkedIn if you want to chat 😊
+		I'm a Software Engineer at Entelect based in South Africa. I'm a recent Computer Science and Information Systems graduate from the University of Cape Town.
+		My interests lie in Data Engineering, EduTech, and FinTech. Connect with me on LinkedIn if you want to chat 😊
 	</p>
 	<hr class="bold" />
 	<ul class="links">
@@ -41,7 +41,7 @@
 		</li>
 		<li>
 			<a
-				href="https://rxresu.me/eusebio77/jaleel2024"
+				href="https://rxresu.me/eusebio77/jd-2025"
 				title="CV"
 				target="_blank"
 				rel="noopener"
