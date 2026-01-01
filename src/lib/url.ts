@@ -1,2 +1,2 @@
-export const HOST = "www.furudean.com"
+export const HOST = "jaleel.co.za"
 export const BASE_URL = "https://" + HOST
