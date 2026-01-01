@@ -21,7 +21,7 @@
 	<!-- OpenGraph -->
 	{#if any}
 		{#if !isRoot}
-			<meta property="og:site_name" content="JD van Staden" />
+			<meta property="og:site_name" content="Merilynn Bandy" />
 		{/if}
 		<meta property="og:type" content="website" />
 	{/if}

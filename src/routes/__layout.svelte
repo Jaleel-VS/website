@@ -1,4 +1,5 @@
 <script lang="ts">
+	import Nav from "$components/Nav.svelte"
 	import { getStores } from "$app/stores"
 	import LoadingBar from "./_loading-bar.svelte"
 	import { updateFragmentLinkTarget } from "$lib/link"
@@ -33,6 +34,7 @@
 <LoadingBar />
 
 <div class="container" bind:this={element}>
+	<!-- <Nav /> -->
 	<main>
 		<slot />
 	</main>
